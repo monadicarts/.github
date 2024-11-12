@@ -1,6 +1,6 @@
 # ✨monadica✨
 
-![Monadica Logo]([assets/monadica256.png)](https://raw.githubusercontent.com/monadicarts/monadicarts/main/assets/monadica256.png)
+![Monadica Logo](https://raw.githubusercontent.com/monadicarts/monadicarts/main/assets/monadica256.png)
 
 ![Open Source License](https://img.shields.io/badge/license-MIT-blue) 
 ![GitHub contributors](https://img.shields.io/github/contributors/monadicarts/monadicarts) 
