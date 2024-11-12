@@ -52,6 +52,13 @@ We welcome contributions from all corners of the world! Here are some ways to ge
 
 Monadica is proudly supported by **Monadica LLC**, an Open Source and IT Consulting company. Monadica LLC serves as both a key contributor and responsible backer, ensuring that our projects receive the support, resources, and sustainable funding needed to thrive. Together, Monadica LLC and the Monadica open source community work to uphold our vision of **ethical, accessible, and impactful technology**.
 
+### Online Package Managers 📦
+
+- [NPM Monadica Packages](https://www.npmjs.com/settings/monadica/packages)
+- [Clojars net.clojars.monadica](https://clojars.org/groups/net.clojars.monadica)
+- [Clojars org.clojars.monadica](https://clojars.org/groups/org.clojars.monadica)
+
+
 ---
 
 ### Join Us on Our Mission 🌱
