@@ -55,6 +55,7 @@ You can find our published packages on the following registries:
 | **NPM** | [`@monadica`](https://www.npmjs.com/search?q=%40monadica) |
 | **Clojars** | [`net.clojars.monadica`](https://clojars.org/groups/net.clojars.monadica) |
 | **Clojars** | [`org.clojars.monadica`](https://clojars.org/groups/org.clojars.monadica) |
+| **VS Code Marketplace** | [`monadica`](https://marketplace.visualstudio.com/manage/publishers/monadica) |
 
 ### License and Code of Conduct 📜
 
